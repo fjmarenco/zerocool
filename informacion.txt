@@ -1,0 +1,4 @@
+datos personales
+nombre fernando
+apellido marenco
+email: fjmarenco@uninorte.edu.co
